@@ -1,0 +1,28 @@
+body{
+    background-color: hsl(329, 33%, 65%) ;
+
+}
+form{
+    background-color:rgb(242, 244, 245) ;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px ;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(329, 33%, 65%);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px ;
+}
+b{
+    color: #500a2e;
+}
+button{
+    background-color: #500a2e;
+    color: white;
+    border-radius: 10px;
+}
+h3{
+    color: #500a2e;
+}
